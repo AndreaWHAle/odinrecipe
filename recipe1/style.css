@@ -1,0 +1,49 @@
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: antiquewhite;
+
+}
+
+#BGhome {
+    font-size: 88px;
+    background-color: rgb(233, 188, 129);
+    color: rgb(181, 152, 90);
+}
+
+.center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Bella {
+    width: 400px;
+    height: auto;
+}
+
+#para1{
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.lista{
+    font-style: oblique;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 33px;
+}
+
+#back {
+    background-color: orange;
+    color: black;
+    width: 380px;
+    height: 57px;
+    font-size: 42px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
